@@ -1,4 +1,4 @@
 jmxtrans
 ========
 
-The repository has moved to our new organization at:  http://github.com/jmxtrans/jmxtrans
+The repository has moved to our new organization at:  https://github.com/jmxtrans/jmxtrans
